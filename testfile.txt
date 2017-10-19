@@ -1,1 +1,7 @@
-# created a branch and pushing it 
+#git tutorial book
+https://git-scm.com/book/en/v2/
+#good intro  git tutorial
+https://try.github.io/levels/1/challenges/1
+# created a branch  
+# create a branch by 
+
